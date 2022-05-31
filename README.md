@@ -6,7 +6,7 @@ Unity で作成したフォークリフト作業の行える VR シミュレー�
 
 ### DEMO VIDEO
 
-![demo video](https://github.com/to-jiki/Forklift-Simulator/blob/main/demo/demo.mp4)
+https://github.com/to-jiki/Forklift-Simulator/blob/main/demo/demo.mp4
 
 ---
 
