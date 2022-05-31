@@ -1,10 +1,12 @@
 ## VR Forklift Simulator in Unity
 
-Unity で作成したフォークリフト作業の行える VR シミュレーターです．共同研究であり WIP なのでコードに関しては非公開
+Unity で作成したフォークリフト作業の行える VR シミュレーターです．共同研究であり WIP なのでコードに関しては非公開です．
 
 ---
 
 ### DEMO VIDEO
+
+![demo video](https://github.com/to-jiki/Forklift-Simulator/blob/main/demo/demo.mp4)
 
 ---
 
@@ -19,6 +21,7 @@ Unity で作成したフォークリフト作業の行える VR シミュレー�
 - ハンドルコントローラー
 - レバー
 - ペダル
+<img src="https://github.com/to-jiki/Forklift-Simulator/blob/main/demo/usingSimulator.jpg" height="50%" width = "50%" >
 
 ---
 
