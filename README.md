@@ -17,6 +17,7 @@ https://github.com/to-jiki/Forklift-Simulator/blob/main/demo/demo.mp4
 ### 必要な設備
 
 - HTC VIVE Pro Eye
+
   (Unity で使用できる任意の)
 - ハンドルコントローラー
 - レバー
