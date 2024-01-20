@@ -1,6 +1,6 @@
 ## VR Forklift Simulator in Unity
 
-Unity で作成したフォークリフト作業の行える VR シミュレーター 共同研究であるためコードに関しては非公開．
+Unity で作成したフォークリフト作業の行える VR シミュレーター
 
 ---
 
